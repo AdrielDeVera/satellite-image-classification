@@ -1,4 +1,4 @@
-# Satellite Image Classification ADD VISUALIZATIONS
+# Satellite Image Classification
 
 This project aims to classify satellite images into four categories: cloudy areas, deserts, green areas, and bodies of water. Using Convolutional Neural Networks (CNN), the project addresses the problem of land cover analysis, providing valuable insights into ecosystems and climate change.
 
